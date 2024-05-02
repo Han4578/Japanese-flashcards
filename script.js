@@ -23,7 +23,7 @@ let kanas = hiragana.concat(katakana)
 
 input.addEventListener("input", () => {
     let val = input.value.trim()
-    if (val == ans) {
+    if (val  == ans) {
         nextWord()
         input.value = ""
         streakDiv.innerText = ++streak
@@ -33,7 +33,7 @@ input.addEventListener("input", () => {
 input.addEventListener("keydown", (e) => {
     if (e.key == "Enter") {
         let val = input.value
-        if (val == ans) {
+        if (val.toLowerCase() == ans) {
             streakDiv.innerText = ++streak
             nextWord()
             input.value = ""

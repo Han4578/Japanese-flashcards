@@ -57,7 +57,7 @@ hr {
 }
 
 .text {
-    aspect-ratio: 1;
+    width: 100vw;
     height: 50vh;
     justify-content: center;
     align-items: center;
@@ -192,5 +192,22 @@ hr {
 
     body {
         gap: 1vh;
+    }
+
+    .list-button {
+        height: 5vh;
+    }
+      
+    .list {
+        width: 90vw;
+    }
+      
+    .text {
+        margin-top: 20vh;
+        height: 20vh;
+    }
+  
+    .ans {
+        margin-bottom: 5vh;
     }
 }
