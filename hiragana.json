@@ -1,0 +1,542 @@
+[
+    {
+      "text": "あ",
+      "pronounce": "a"
+    },
+    {
+      "text": "い",
+      "pronounce": "i"
+    },
+    {
+      "text": "う",
+      "pronounce": "u"
+    },
+    {
+      "text": "え",
+      "pronounce": "e"
+    },
+    {
+      "text": "お",
+      "pronounce": "o"
+    },
+    {
+      "text": "か",
+      "pronounce": "ka"
+    },
+    {
+      "text": "き",
+      "pronounce": "ki"
+    },
+    {
+      "text": "く",
+      "pronounce": "ku"
+    },
+    {
+      "text": "け",
+      "pronounce": "ke"
+    },
+    {
+      "text": "こ",
+      "pronounce": "ko"
+    },
+    {
+      "text": "さ",
+      "pronounce": "sa"
+    },
+    {
+      "text": "し",
+      "pronounce": "shi"
+    },
+    {
+      "text": "す",
+      "pronounce": "su"
+    },
+    {
+      "text": "せ",
+      "pronounce": "se"
+    },
+    {
+      "text": "そ",
+      "pronounce": "so"
+    },
+    {
+      "text": "た",
+      "pronounce": "ta"
+    },
+    {
+      "text": "ち",
+      "pronounce": "chi"
+    },
+    {
+      "text": "つ",
+      "pronounce": "tsu"
+    },
+    {
+      "text": "て",
+      "pronounce": "te"
+    },
+    {
+      "text": "と",
+      "pronounce": "to"
+    },
+    {
+      "text": "な",
+      "pronounce": "na"
+    },
+    {
+      "text": "に",
+      "pronounce": "ni"
+    },
+    {
+      "text": "ぬ",
+      "pronounce": "nu"
+    },
+    {
+      "text": "ね",
+      "pronounce": "ne"
+    },
+    {
+      "text": "の",
+      "pronounce": "no"
+    },
+    {
+      "text": "は",
+      "pronounce": "ha"
+    },
+    {
+      "text": "ひ",
+      "pronounce": "hi"
+    },
+    {
+      "text": "ふ",
+      "pronounce": "fu"
+    },
+    {
+      "text": "へ",
+      "pronounce": "he"
+    },
+    {
+      "text": "ほ",
+      "pronounce": "ho"
+    },
+    {
+      "text": "ま",
+      "pronounce": "ma"
+    },
+    {
+      "text": "み",
+      "pronounce": "mi"
+    },
+    {
+      "text": "む",
+      "pronounce": "mu"
+    },
+    {
+      "text": "め",
+      "pronounce": "me"
+    },
+    {
+      "text": "も",
+      "pronounce": "mo"
+    },
+    {
+      "text": "や",
+      "pronounce": "ya"
+    },
+    {
+      "text": "",
+      "pronounce": ""
+    },
+    {
+      "text": "ゆ",
+      "pronounce": "yu"
+    },
+    {
+      "text": "",
+      "pronounce": ""
+    },
+    {
+      "text": "よ",
+      "pronounce": "yo"
+    },
+    {
+      "text": "ら",
+      "pronounce": "ra"
+    },
+    {
+      "text": "り",
+      "pronounce": "ri"
+    },
+    {
+      "text": "る",
+      "pronounce": "ru"
+    },
+    {
+      "text": "れ",
+      "pronounce": "re"
+    },
+    {
+      "text": "ろ",
+      "pronounce": "ro"
+    },
+    {
+      "text": "わ",
+      "pronounce": "wa"
+    },
+    {
+      "text": "",
+      "pronounce": ""
+    },
+    {
+      "text": "",
+      "pronounce": ""
+    },
+    {
+      "text": "",
+      "pronounce": ""
+    },
+    {
+      "text": "を",
+      "pronounce": "wo"
+    },
+    {
+      "text": "ん",
+      "pronounce": "n"
+    },
+    {
+      "text": "",
+      "pronounce": ""
+    },
+    {
+      "text": "",
+      "pronounce": ""
+    },
+    {
+      "text": "",
+      "pronounce": ""
+    },
+    {
+      "text": "",
+      "pronounce": ""
+    },
+    {
+      "text": "が",
+      "pronounce": "ga"
+    },
+    {
+      "text": "ぎ",
+      "pronounce": "gi"
+    },
+    {
+      "text": "ぐ",
+      "pronounce": "gu"
+    },
+    {
+      "text": "げ",
+      "pronounce": "ge"
+    },
+    {
+      "text": "ご",
+      "pronounce": "go"
+    },
+    {
+      "text": "ざ",
+      "pronounce": "za"
+    },
+    {
+      "text": "じ",
+      "pronounce": "ji"
+    },
+    {
+      "text": "ず",
+      "pronounce": "zu"
+    },
+    {
+      "text": "ぜ",
+      "pronounce": "ze"
+    },
+    {
+      "text": "ぞ",
+      "pronounce": "zo"
+    },
+    {
+      "text": "だ",
+      "pronounce": "da"
+    },
+    {
+      "text": "ぢ",
+      "pronounce": "ji"
+    },
+    {
+      "text": "づ",
+      "pronounce": "zu"
+    },
+    {
+      "text": "で",
+      "pronounce": "de"
+    },
+    {
+      "text": "ど",
+      "pronounce": "do"
+    },
+    {
+      "text": "ば",
+      "pronounce": "ba"
+    },
+    {
+      "text": "び",
+      "pronounce": "bi"
+    },
+    {
+      "text": "ぶ",
+      "pronounce": "bu"
+    },
+    {
+      "text": "べ",
+      "pronounce": "be"
+    },
+    {
+      "text": "ぼ",
+      "pronounce": "bo"
+    },
+    {
+      "text": "ぱ",
+      "pronounce": "pa"
+    },
+    {
+      "text": "ぴ",
+      "pronounce": "pi"
+    },
+    {
+      "text": "ぷ",
+      "pronounce": "pu"
+    },
+    {
+      "text": "ぺ",
+      "pronounce": "pe"
+    },
+    {
+      "text": "ぽ",
+      "pronounce": "po"
+    },
+    {
+      "text": "きゃ",
+      "pronounce": "kya"
+    },
+    {
+      "text": "",
+      "pronounce": ""
+    },
+    {
+      "text": "きゅ",
+      "pronounce": "kyu"
+    },
+    {
+      "text": "",
+      "pronounce": ""
+    },
+    {
+      "text": "きょ",
+      "pronounce": "kyo"
+    },
+    {
+      "text": "しゃ",
+      "pronounce": "sha"
+    },
+    {
+      "text": "",
+      "pronounce": ""
+    },
+    {
+      "text": "しゅ",
+      "pronounce": "shu"
+    },
+    {
+      "text": "",
+      "pronounce": ""
+    },
+    {
+      "text": "しょ",
+      "pronounce": "sho"
+    },
+    {
+      "text": "ちゃ",
+      "pronounce": "cha"
+    },
+    {
+      "text": "",
+      "pronounce": ""
+    },
+    {
+      "text": "ちゅ",
+      "pronounce": "chu"
+    },
+    {
+      "text": "",
+      "pronounce": ""
+    },
+    {
+      "text": "ちょ",
+      "pronounce": "cho"
+    },
+    {
+      "text": "にゃ",
+      "pronounce": "nya"
+    },
+    {
+      "text": "",
+      "pronounce": ""
+    },
+    {
+      "text": "にゅ",
+      "pronounce": "nyu"
+    },
+    {
+      "text": "",
+      "pronounce": ""
+    },
+    {
+      "text": "にょ",
+      "pronounce": "nyo"
+    },
+    {
+      "text": "ひゃ",
+      "pronounce": "hya"
+    },
+    {
+      "text": "",
+      "pronounce": ""
+    },
+    {
+      "text": "ひゅ",
+      "pronounce": "hyu"
+    },
+    {
+      "text": "",
+      "pronounce": ""
+    },
+    {
+      "text": "ひょ",
+      "pronounce": "hyo"
+    },
+    {
+      "text": "みゃ",
+      "pronounce": "mya"
+    },
+    {
+      "text": "",
+      "pronounce": ""
+    },
+    {
+      "text": "みゅ",
+      "pronounce": "myu"
+    },
+    {
+      "text": "",
+      "pronounce": ""
+    },
+    {
+      "text": "みょ",
+      "pronounce": "myo"
+    },
+    {
+      "text": "りゃ",
+      "pronounce": "rya"
+    },
+    {
+      "text": "",
+      "pronounce": ""
+    },
+    {
+      "text": "りゅ",
+      "pronounce": "ryu"
+    },
+    {
+      "text": "",
+      "pronounce": ""
+    },
+    {
+      "text": "りょ",
+      "pronounce": "ryo"
+    },
+    {
+      "text": "ぎゃ",
+      "pronounce": "gya"
+    },
+    {
+      "text": "",
+      "pronounce": ""
+    },
+    {
+      "text": "ぎゅ",
+      "pronounce": "gyu"
+    },
+    {
+      "text": "",
+      "pronounce": ""
+    },
+    {
+      "text": "ぎょ",
+      "pronounce": "gyo"
+    },
+    {
+      "text": "じゃ",
+      "pronounce": "ja"
+    },
+    {
+      "text": "",
+      "pronounce": ""
+    },
+    {
+      "text": "じゅ",
+      "pronounce": "ju"
+    },
+    {
+      "text": "",
+      "pronounce": ""
+    },
+    {
+      "text": "じょ",
+      "pronounce": "jo"
+    },
+    {
+      "text": "びゃ",
+      "pronounce": "bya"
+    },
+    {
+      "text": "",
+      "pronounce": ""
+    },
+    {
+      "text": "びゅ",
+      "pronounce": "byu"
+    },
+    {
+      "text": "",
+      "pronounce": ""
+    },
+    {
+      "text": "びょ",
+      "pronounce": "byo"
+    },
+    {
+      "text": "ぴゃ",
+      "pronounce": "pya"
+    },
+    {
+      "text": "",
+      "pronounce": ""
+    },
+    {
+      "text": "ぴゅ",
+      "pronounce": "pyu"
+    },
+    {
+      "text": "",
+      "pronounce": ""
+    },
+    {
+      "text": "ぴょ",
+      "pronounce": "pyo"
+    }
+  ]

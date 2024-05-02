@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer type="module"></script>
+    <title>Hirakata</title>
+</head>
+<body>
+    <template>
+        <div class="kana">
+            <div class="jp"></div>
+            <div class="romaji"></div>
+        </div>
+    </template>
+    <div class="top">
+        <div class="left">
+            <label for="hiragana"><input type="radio" name="kana" id="hiragana"> Hiragana</label>
+            <label for="katakana"><input type="radio" name="kana" id="katakana"> Katakana</label>
+            <label for="both"><input type="radio" name="kana" id="both" checked> Both</label>
+        </div>
+        <div class="streak">0</div>
+    </div>
+    <div class="text"></div>
+    <div class="correction"></div>
+    <input type="text" maxlength="5" class="ans">
+    <button class="reveal">Reveal</button>
+    <button class="list-button"><img src="./images/list.png" alt=""></button>
+    <div class="darken"></div>
+    <div class="list">
+        <div class="choices">
+            <span class="hira selected">Hiragana</span>
+            <span class="kata">Katakana</span>
+        </div>
+        <hr>
+        <div class="hira-container display"></div>
+        <div class="kata-container"></div>
+    </div>
+</body>
+</html>
