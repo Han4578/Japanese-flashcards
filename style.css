@@ -63,6 +63,7 @@ hr {
     align-items: center;
     display: flex;
     font-size: 20vh;
+    font-family: jp;
 }
 
 .reveal {
@@ -180,7 +181,10 @@ hr {
     font-size: 1.2em;
 }
 
-
+@font-face {
+    font-family: jp;
+    src: url(font.otf);
+}
 
 @media screen and (max-width: 600px) {
     .streak {
