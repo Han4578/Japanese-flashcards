@@ -111,19 +111,31 @@ function revealAns() {
     if (correction.innerText == "") {
         correction.innerText = ans
         reveal.innerText = "Next"
+        streak = 0
+        streakDiv.innerText = streak
+        input.disabled = true
     }
     else {
         correction.innerText = ""
         nextWord()
         reveal.innerText = "Reveal"
         input.value = ""
+        input.disabled = false
     }
 }
 
 function changeKana() {
-    if (hiraCheck.checked) kanas = hiragana
-    if (kataCheck.checked) kanas = katakana
-    else kanas = hiragana.concat(katakana)
+    switch(document.querySelector('input[name="kana"]:checked').value) {
+        case "1":
+            kanas = hiragana
+        break
+        case "2":
+            kanas = katakana
+        break
+        case "3":
+            kanas = hiragana.concat(katakana)
+        break
+    }
     nextWord()
     streak = 0
     streakDiv.innerText = streak
